@@ -42,8 +42,8 @@ img.smile-school-logo {
   height: 2rem;
 }
 
-.purple-text{
-	color: var(--purple-smile)
+.purple-text {
+  color: var(--purple-smile);
 }
 
 #courses .courses,
@@ -130,8 +130,8 @@ button.btn {
   height: 4rem;
 }
 
-.circle-thumb{
-	width: 6rem;
+.circle-thumb {
+  width: 6rem;
 }
 
 .testimonials {
@@ -147,8 +147,12 @@ button.btn {
   border: none !important;
 }
 
-.card.card-body{
-	width: 100%;
+.card.card-body {
+  width: 100%;
+}
+
+.col-md-6.col-lg-3 {
+  margin-right: 5rem !important;
 }
 
 .video {
@@ -168,7 +172,6 @@ button.btn {
 
 .rating {
   width: 100%;
-  
 }
 
 img.play-btn {
@@ -279,3 +282,6 @@ footer {
   text-overflow: ellipsis;
 }
 
+.vid-bg-img {
+  width: 100%;
+}
